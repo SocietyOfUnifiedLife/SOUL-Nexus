@@ -48,7 +48,7 @@ This project is still in its early formative stage and is maintained by its foun
 - Align with SOUL’s core values: nonviolence, transparency, and cooperation
 - Have interest in decentralized governance, open-source coordination, or humanitarian action
 
-You can also join the conversation at: [discord.gg/q7fjhCwk](https://discord.gg/q7fjhCwk)
+You can also join the conversation on [our discord server](https://discord.gg/q7fjhCwk)
 
 ---
 

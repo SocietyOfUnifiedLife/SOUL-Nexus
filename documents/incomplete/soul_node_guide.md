@@ -133,6 +133,90 @@ This section explores how decisions are made, roles are held, and human energy i
 
 ---
 
+## 🧱 Governance System (Three-Branch Model)
+
+A SOUL Node’s governance balances flexibility, accountability, and mutual trust. Power is distributed across three interwoven branches:
+
+- **Steward** – The ethical anchor and charter guardian
+- **Council** – A rotating circle of peer-elected advisors
+- **Consensus** – The full democratic voice of the Node
+
+Together, these form a dynamic and adaptable structure for resolving conflicts, assigning roles, and protecting alignment.
+
+---
+
+### 🗳 Consensus System
+
+- **Definition**: A full vote of active Node members; one person, one vote.
+- **Default Threshold**:  
+  - Simple majority (51%) for regular decisions:
+    - Assigning roles (Facilitator, Coordinator, Councilor)
+    - Approving missions
+    - Adopting proposals
+  - Supermajority (66%) for structural or override decisions:
+    - Removing a Steward (if no Council exists)
+    - Changing the Node charter or values
+    - Creating or dissolving a Council
+
+- **Facilitated by**: the active Facilitator
+- **Customizable**: Nodes may define their own thresholds
+
+---
+
+### 🪑 Council Structure
+
+- **Purpose**: Reflection, intervention, and veto—not day-to-day leadership
+- **Size**: Scales with Node size (~1 Councilor per 8–12 members)
+  - Suggested cap: 12 maximum
+- **Election**: Chosen through Consensus
+- **Term**: 6 months
+- **Rotation Rule**:
+  - No back-to-back terms
+  - Must sit out at least one term before re-election
+- **Optional Chair**: Appointed internally if the Steward steps down
+
+---
+
+### 👥 Accountability Circles
+
+Every leadership role (e.g. Coordinator, Facilitator) comes with an attached **Accountability Circle**—a small group of peers tasked with support and integrity.
+
+#### Functions:
+- **Support First**: Reflect, guide, and mentor before intervening
+- **Immediate Suspension (if needed)**:
+  - Circle may temporarily pause someone's authority
+  - A follow-up review must occur within 1–2 weeks
+  - Final decision is confirmed or overturned by Steward, Council, or Node
+
+#### Composition:
+- 3–5 trusted peers
+- Preferably includes former role-holders or experienced contributors
+
+---
+
+### ⚖️ Conflict Resolution & Role Removal
+
+| Action                       | Required Agreement                          |
+|-----------------------------|---------------------------------------------|
+| Remove **Steward**          | Council + Consensus *(or)* Council + Circle |
+| Remove **Councilor**        | Steward + Consensus                         |
+| Remove **Coordinator / Facilitator** | Any one branch *(or)* Accountability Circle (if uncontested) |
+| Override mission or decision| Any two of the three branches                |
+| Contested removal           | Full 3-way vote required                    |
+
+> 🔁 **If no Council exists**, the Steward can be overridden by supermajority Consensus.
+
+---
+
+### 🌿 Cultural Principles
+
+- Authority is temporary, service-based, and accountable.
+- Stewards and Councilors are safeguards—not rulers.
+- Consensus is the core of community alignment.
+- Accountability Circles blend support with responsibility.
+
+---
+
 ## 🔄 1. Rotating Role Philosophy
 
 * Roles are **functional, not positional**—they exist to serve a purpose, not claim power.

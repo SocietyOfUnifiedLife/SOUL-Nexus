@@ -127,13 +127,33 @@ To fully understand the Node system, here are the core terms used throughout thi
 
 # II. Governance & Structure
 
-A SOUL Node is not a hierarchy—it’s a living system of mutual care, shared responsibility, and evolving trust. While every Node is free to structure itself to meet local needs, there are flexible patterns that help prevent burnout, concentration of power, or confusion as the group grows.
+A SOUL Node is not a hierarchy—it’s a living system of mutual care, shared responsibility, and evolving trust. Its vitality depends not just on shared values, but on how those values are lived out through roles, rhythms, and teamwork.
 
-This section outlines how decisions are made, who holds what kind of responsibility, and how accountability is maintained without bureaucracy.
+This section explores how decisions are made, roles are held, and human energy is organized—clearly, compassionately, and without bureaucracy—so that leadership can rotate, power remains diffuse, and every member feels empowered to contribute without burnout or confusion.
 
 ---
 
-### 🧭 1. The Steward (Default Anchor Role)
+## 🔄 1. Rotating Role Philosophy
+
+* Roles are **functional, not positional**—they exist to serve a purpose, not claim power.
+* Every role is **rotatable** to distribute trust, reduce dependence, and encourage growth.
+* **No role is permanent**, and every person should feel free to try, rest, or shift.
+* Rotation trains and spreads experience across the Node—reinforcing resilience, redundancy, and the spirit of **force multiplication**.
+
+### Rotation Patterns
+
+* Facilitator: weekly / per-meeting
+* Coordinator: per mission
+* Treasurer: optional annual or seasonal check-in
+* Steward: rotatable or long-term, if desired
+
+There is no problem with a Node having a favorite Facilitator—as long as they are *chosen* and not *clinging* to the position. People may **volunteer** or be **nominated**, but must be **approved**—usually by consensus, Steward, or Council (or some hybrid).
+
+Approval is only valid for a **set period of time**, after which a new person is selected through the same process.
+
+---
+
+### 🧭 2. The Steward (Default Anchor Role)
 
 The **Steward** is the ethical compass and stabilizing presence of a Node—often the founder or first organizer. This person:
 
@@ -148,7 +168,7 @@ A Steward may step back or be replaced as the Node evolves.
 
 ---
 
-### 🪞 2. Oversight Circle (Optional or Elected)
+### 🪞 3. Oversight Circle (Optional or Elected)
 
 As Nodes grow, they’re encouraged to form an **Oversight Circle**—a small group of trusted peers who:
 
@@ -358,4 +378,101 @@ You’re allowed to change, evolve, experiment. These are reference points—not
 | Scale            | Seed, Circle, Cluster, Fractal                      |
 
 Use what resonates. Ignore what doesn’t. Your Node is yours to shape.
+
+---
+
+## 🧭 2. Core Roles Deep Dive
+
+### **Steward**
+
+> Ethical anchor and default point-of-contact
+
+* Maintains alignment with SOUL values
+* Supports rotation, health, and cultural integrity
+* Acts as guardian of the Node’s charter
+* May act as Treasurer or take on other roles in small teams
+* **Not an executive**: serves as a safeguard, not a decision-maker
+
+The Steward behaves like any other member unless intervention is required.
+
+### **Facilitator**
+
+> Meeting host and spaceholder
+
+* Sets the agenda or structure
+* Ensures equal participation and emotional safety
+* Maintains meeting records or minutes
+* Rotates frequently
+
+### **Coordinator**
+
+> Mission lead and team organizer
+
+* Proposes and guides a mission or initiative
+* Forms teams, delegates roles, tracks progress
+* Handles day-of logistics and follow-ups
+* Responsible for volunteer records, safety forms, and after-action reflections
+* Role ends at the close of the mission/initiative unless re-selected
+
+### **Treasurer (Optional)**
+
+> Resource steward
+
+* May be fulfilled by the Steward or another trusted person
+* Manages shared funds or materials (if any)
+* Reports transparently to the group
+
+### **Chair (Oversight Circle)**
+
+> Temporary point-of-contact during leadership transitions
+
+* Chosen by the Oversight Circle if the Steward steps down
+* May coordinate council functions or help onboard new Stewards
+
+---
+
+## 🧪 3. Optional Sub-Roles & Teams
+
+Nodes may experiment with sub-teams to support larger missions or recurring needs:
+
+| Team       | Focus                                              |
+| ---------- | -------------------------------------------------- |
+| 👐 Care    | Emotional check-ins, peer support                  |
+| 📣 Comms   | Outreach, invitations, announcements               |
+| 🧰 Supply  | Logistics, materials, and setup                    |
+| 🕊 Culture | Rituals, art, and tone-setting                     |
+| 🛡 Safety  | Risk assessment, basic first aid, protection norms |
+
+---
+
+## 🌀 4. Coordination Norms
+
+* **Forming a Mission Team:**
+  Coordinator proposes → group consents → roles filled → mission launched
+
+* **During Execution:**
+  Use check-ins, shared docs, and responsive comms. Stay adaptable.
+
+* **After Action:**
+  Reflect together. What worked? What didn’t? What surprised you? Document and share.
+
+### Mission and Initiative Voting
+
+* Missions, initiatives, and who coordinates them should be decided by the Node as a whole—or at least by the participants involved.
+* Stewards and Councils serve primarily as **veto authorities and safety checks**, not active leaders.
+* They can remove or realign coordinators through the same process as an accountability circle—acting on behalf of the Node’s overall integrity.
+
+---
+
+## 🌱 5. Leadership as Stewardship
+
+* All leadership is **temporary, voluntary, and in service** of the group.
+* Titles do not confer rank.
+* Coordinators and Facilitators should be **models of humility, presence, and clarity**—not command.
+* Stewards and Councils exist to safeguard—not steer—unless needed.
+
+---
+
+##
+
 

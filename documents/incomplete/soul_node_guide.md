@@ -9,12 +9,13 @@
 1. 🧱 Core Premise
 2. 🔑 Key Terms & Definitions
 3. ✅ Starter Checklist
+4. 🧩 Node Archetypes
 
 ### II. Governance & Structure
 
-5. 🔧 Governance & Trust *(Roles, decision-making, accountability, money, and documentation)*
-6. 🧩 Node Archetypes *(Optional: how nodes express themselves)*
-7. 🛠 Role System & Coordination *(Mission teams, rotation philosophy, role clarity)*
+1. 🔧 Governance System
+3. ✅ Voting System
+4. 🛠 Accountability Circles
 
 ### III. Rhythms & Operations
 
@@ -205,7 +206,7 @@ Councilors are not removable mid-term.
 
 ---
 
-### II.2.c 🧑‍⚖️ Steward Role
+### II.1.c 🧑‍⚖️ Steward Role
 
 **Role:** Ethical compass and stabilizing presence. Often the founder or anchor of the Node.
 
@@ -227,7 +228,7 @@ Stewards do **not** make independent operational decisions. They are safeguards,
 
 ---
 
-### II.2.d - ⚖️ Veto Chain & Conflict Resolution
+### II.1.d - ⚖️ Veto Chain & Conflict Resolution
 
 **Any branch (Steward, Council, or Consensus) may veto a proposal.**  
 That veto may then be overridden by **either of the other two**:
@@ -243,7 +244,7 @@ If no action is taken by the third branch, the last override stands.
 
 ---
 
-### II.2.e - 🎯 Example Flow
+### II.1.e - 🎯 Example Flow
 
 1. Proposal passes Consensus (51%)  
 2. Steward vetoes  
@@ -252,7 +253,7 @@ If no action is taken by the third branch, the last override stands.
 
 ---
 
-### II.2.f - 📊 Summary Voting Table
+### II.1.f - 📊 Summary Voting Table
 
 | Decision Type                       | Threshold / Rule                            |
 |------------------------------------|---------------------------------------------|
@@ -263,13 +264,13 @@ If no action is taken by the third branch, the last override stands.
 
 ---
 
-## II.3 - 🗳 Voting System
+## II.2 - 🗳 Voting System
 
 In a SOUL Node, the **Consensus branch**—all active members—holds primary decision-making authority. Every member has one vote, and decisions follow a clearly defined and accountable process to ensure fairness, flexibility, and alignment.
 
 ---
 
-### II.3.a - 🔁 How Proposals Work
+### II.2.a - 🔁 How Proposals Work
 
 Any member may submit a proposal to the current **Facilitator** for inclusion in the next meeting. The Facilitator is responsible for:
 
@@ -279,7 +280,7 @@ Any member may submit a proposal to the current **Facilitator** for inclusion in
 
 ---
 
-### II.3.b - 📣 Establishing Quorum
+### II.2.b - 📣 Establishing Quorum
 
 To ensure decisions reflect the Node’s active membership:
 
@@ -296,7 +297,7 @@ This prevents inaction due to low attendance while still respecting democratic l
 
 ---
 
-### II.3.c - 📋 Voting Procedure
+### II.2.c - 📋 Voting Procedure
 
 1. **Proposal Presented** – Facilitator introduces and reads the motion  
 2. **Discussion Period** – Members may ask questions, suggest edits, or debate respectfully  
@@ -308,7 +309,7 @@ This prevents inaction due to low attendance while still respecting democratic l
 
 ---
 
-### II.3.d - ✅ Default Thresholds
+### II.2.d - ✅ Default Thresholds
 
 | Vote Type                        | Required Outcome        |
 |----------------------------------|--------------------------|
@@ -319,7 +320,7 @@ Nodes may define **custom thresholds** in their Charter if desired.
 
 ---
 
-### II.3.e - 🛡️ Post-Vote Oversight
+### II.2.e - 🛡️ Post-Vote Oversight
 
 Once a motion **passes**, it enters a **brief review period**, where any oversight branch (Steward or Council) may:
 
@@ -336,7 +337,7 @@ However, **larger missions**, structural changes, or sensitive issues should be 
 
 ---
 
-### II.3.f - 🧠 Cultural Considerations
+### II.2.f - 🧠 Cultural Considerations
 
 - **Oversight exists to prevent harm or drift**, not to manage every choice  
 - **Facilitators are not decision-makers**, but stewards of fair process  
@@ -344,13 +345,13 @@ However, **larger missions**, structural changes, or sensitive issues should be 
 
 ---
 
-## II.4 - 👥 Accountability Circles
+## II.3 - 👥 Accountability Circles
 
 Every leadership role—whether short-term (like a mission Coordinator) or recurring (like Facilitator)—requires an **Accountability Circle** of **2–5 trusted peers** before officially beginning.
 
 ---
 
-### II.4.a - 🛠️ Responsibilities
+### II.3.a - 🛠️ Responsibilities
 
 - **Oversight** – Observe and ensure alignment with SOUL’s culture and charter  
 - **Support** – Act as a sounding board, help prevent burnout, and offer personal backup  
@@ -362,7 +363,7 @@ Circles help **nurture leaders**, not just monitor them.
 
 ---
 
-### II.4.b - 🧑‍🤝‍🧑 Formation Process
+### II.3.b - 🧑‍🤝‍🧑 Formation Process
 
 - Role-holders must **form their Circle before beginning duties**
 - The Circle can be proposed by the person themselves *or* by trusted peers
@@ -373,7 +374,7 @@ This prevents bias while still **respecting personal boundaries** and **ensuring
 
 ---
 
-### II.4.c - 📊 Optional Feedback System
+### II.3.c - 📊 Optional Feedback System
 
 To improve leadership continuity and culture, Circles may provide **periodic feedback**:
 
@@ -387,7 +388,7 @@ If desired, Nodes can rotate **anonymous peer evaluations** or conduct occasiona
 
 ---
 
-### II.4.d - 🌿 Cultural Principles
+### II.3.d - 🌿 Cultural Principles
 
 - Authority is temporary, accountable, and service-based  
 - Stewards and Councilors are **safeguards**, not rulers  

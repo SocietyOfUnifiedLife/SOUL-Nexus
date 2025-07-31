@@ -27,7 +27,7 @@
    d. Default Thresholds
    e. Post-Vote Oversight
    f. Cultural Considerations
-4. Core Roles Overview
+3. Core Roles Overview
    a. Rotating Role Philosophy
    b. Steward
    c. Councilor
@@ -35,13 +35,13 @@
    e. Treasurer
    f. Facilitator
    e. Coordinator
-6. 🛠 Accountability Circles
+4. 🛠 Accountability Circles
    a. Responsibilities
    b. Formation Process
    c. Optional Feedback System
    d. Cultural Principles
-7. Money & Resources
-8. Documentation & Transparency  
+5. Money & Resources
+6. Documentation & Transparency  
 
 ### III. Rhythms & Operations
 

@@ -14,8 +14,34 @@
 ### II. Governance & Structure
 
 1. 🔧 Governance System
-3. ✅ Voting System
-4. 🛠 Accountability Circles
+   a. Consensus System
+   b. Council Structure
+   c. Steward Role
+   d. Checks & Balances
+   f. Example Flow
+   e. Summary Voting Table
+2. ✅ Voting System
+  a. How Proposals Work
+  b. Establishing a Quarum
+  c. Voting Procedure
+  d. Default Thresholds
+  e. Post-Vote Oversight
+  f. Cultural Considerations
+4. Core Roles Overview
+  a. Rotating Role Philosophy
+  b. Steward
+  c. Councilor
+  d. Chairperson
+  e. Treasurer
+  f. Facilitator
+  e. Coordinator
+6. 🛠 Accountability Circles
+  a. Responsibilities
+  b. Formation Process
+  c. Optional Feedback System
+  d. Cultural Principles
+7. Money & Resources
+8. Documentation & Transparency  
 
 ### III. Rhythms & Operations
 
@@ -228,7 +254,7 @@ Stewards do **not** make independent operational decisions. They are safeguards,
 
 ---
 
-### II.1.d - ⚖️ Veto Chain & Conflict Resolution
+### II.1.d - ⚖️ Checks & Balances
 
 **Any branch (Steward, Council, or Consensus) may veto a proposal.**  
 That veto may then be overridden by **either of the other two**:

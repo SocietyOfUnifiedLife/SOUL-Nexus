@@ -39,7 +39,7 @@
 
 # I. Foundation & Orientation
 
-## 🧱 Core Premise
+## I.1 - 🧱 Core Premise
 
 > **SOUL Nodes are local expressions of shared values—not fixed chapters of a brand.**
 
@@ -68,7 +68,7 @@ SOUL does not require uniformity—only integrity. A Node is not defined by what
 
 ---
 
-## 🔑 Key Terms & Definitions
+## I.2 - 🔑 Key Terms & Definitions
 
 To fully understand the Node system, here are the core terms used throughout this guide:
 
@@ -88,7 +88,7 @@ To fully understand the Node system, here are the core terms used throughout thi
 
 ---
 
-## ✅ Starter Checklist
+## I.3 - ✅ Starter Checklist
 
 ### Initial Planning:
 
@@ -125,7 +125,7 @@ To fully understand the Node system, here are the core terms used throughout thi
 
 ---
 
-# II. Governance & Structure
+# II - Governance & Structure
 
 A SOUL Node is not a hierarchy—it’s a living system of mutual care, shared responsibility, and evolving trust. Its vitality depends not just on shared values, but on how those values are lived out through roles, rhythms, and teamwork.
 
@@ -133,7 +133,7 @@ This section explores how decisions are made, roles are held, and human energy i
 
 ---
 
-## 🏛️ Governance System (Three-Branch Model)
+## II.1 - 🏛️ Governance System (Three-Branch Model)
 
 SOUL Nodes are governed by their members through **direct democratic consensus**. Oversight structures exist not to lead, but to safeguard the group’s alignment and integrity.
 
@@ -163,27 +163,33 @@ This balance enables freedom **with integrity**, ensuring every Node can adapt w
 
 ---
 
-### 🗳 Consensus System
+### II.1.a - 🗳 Consensus System
 
-**Definition:** A full vote of active Node members; one person, one vote.
+**Definition:** A full democratic vote of active Node members — one person, one vote.
 
-**Default Thresholds:**
+This is the default method for making decisions within a SOUL Node. It ensures that the group retains full agency over its direction, rhythm, and structure.
 
-- **Simple majority (51%)** for regular decisions:
+#### ✅ Default Thresholds
+
+- **Simple Majority (51%)** for regular decisions:
   - Assigning roles (Facilitator, Coordinator, Councilor)
   - Approving missions or initiatives
-  - Adopting proposals or budgets
+  - Adopting internal proposals or budgets
+
 - **Supermajority (66%)** for structural or override decisions:
-  - Overriding a veto (see Veto Chain)
-  - Changing the Node charter or values
+  - Overriding a Steward or Council veto (see Veto Chain)
+  - Amending the Node charter or core values
   - Creating or dissolving a Council
 
-**Facilitated by:** The currently selected Facilitator  
-**Customizable:** Nodes may define custom thresholds in their charter
+#### 🧭 Facilitated by:
+- The currently selected **Facilitator**, who ensures clarity, order, and participation
+
+#### 🛠 Customizable:
+- Nodes may define their own thresholds, exceptions, or voting methods in their charter — as long as the process remains transparent, inclusive, and aligned with SOUL values
 
 ---
 
-### 🪑 Council Structure
+### II.1.b - 🪑 Council Structure
 
 **Purpose:** Oversight and reflection—not daily leadership
 
@@ -199,7 +205,7 @@ Councilors are not removable mid-term.
 
 ---
 
-### 🧑‍⚖️ Steward Role
+### II.2.c 🧑‍⚖️ Steward Role
 
 **Role:** Ethical compass and stabilizing presence. Often the founder or anchor of the Node.
 
@@ -221,7 +227,7 @@ Stewards do **not** make independent operational decisions. They are safeguards,
 
 ---
 
-### ⚖️ Veto Chain & Conflict Resolution
+### II.2.d - ⚖️ Veto Chain & Conflict Resolution
 
 **Any branch (Steward, Council, or Consensus) may veto a proposal.**  
 That veto may then be overridden by **either of the other two**:
@@ -237,7 +243,7 @@ If no action is taken by the third branch, the last override stands.
 
 ---
 
-### 🎯 Example Flow
+### II.2.e - 🎯 Example Flow
 
 1. Proposal passes Consensus (51%)  
 2. Steward vetoes  
@@ -246,7 +252,7 @@ If no action is taken by the third branch, the last override stands.
 
 ---
 
-### 📊 Summary Voting Table
+### II.2.f - 📊 Summary Voting Table
 
 | Decision Type                       | Threshold / Rule                            |
 |------------------------------------|---------------------------------------------|
@@ -257,13 +263,94 @@ If no action is taken by the third branch, the last override stands.
 
 ---
 
-### 👥 Accountability Circles
+## II.3 - 🗳 Voting System
+
+In a SOUL Node, the **Consensus branch**—all active members—holds primary decision-making authority. Every member has one vote, and decisions follow a clearly defined and accountable process to ensure fairness, flexibility, and alignment.
+
+---
+
+### II.3.a - 🔁 How Proposals Work
+
+Any member may submit a proposal to the current **Facilitator** for inclusion in the next meeting. The Facilitator is responsible for:
+
+- Reviewing the proposal and adding it to the agenda  
+- Reading it aloud during the meeting  
+- Ensuring space for **discussion and clarifying questions** before the vote  
+
+---
+
+### II.3.b - 📣 Establishing Quorum
+
+To ensure decisions reflect the Node’s active membership:
+
+- **Quorum** is the minimum number of active members required to hold a valid vote  
+- Suggested defaults:  
+  - **50% of active members** for regular votes (e.g. roles, missions, budgets)  
+  - **66% of active members** for structural or override votes (e.g. veto overrides, charter amendments)  
+
+If quorum is **not met**:  
+- The vote may still be held **provisionally**  
+- The result must be **ratified** by additional members outside the meeting or re-voted when quorum is next met  
+
+This prevents inaction due to low attendance while still respecting democratic legitimacy.
+
+---
+
+### II.3.c - 📋 Voting Procedure
+
+1. **Proposal Presented** – Facilitator introduces and reads the motion  
+2. **Discussion Period** – Members may ask questions, suggest edits, or debate respectfully  
+3. **Quorum Check** – Facilitator confirms that enough members are present  
+4. **Call to Vote** – Vote is held via show of hands, digital tools, or verbal agreement  
+5. **Tally & Record** – Facilitator ensures vote is counted and **documented** in meeting minutes  
+
+> The Facilitator must ensure **someone is designated to take notes**, even if it’s not themselves.
+
+---
+
+### II.3.d - ✅ Default Thresholds
+
+| Vote Type                        | Required Outcome        |
+|----------------------------------|--------------------------|
+| Regular decisions                | Simple Majority (51%)   |
+| Structural / override decisions  | Supermajority (66%)     |
+
+Nodes may define **custom thresholds** in their Charter if desired.
+
+---
+
+### II.3.e - 🛡️ Post-Vote Oversight
+
+Once a motion **passes**, it enters a **brief review period**, where any oversight branch (Steward or Council) may:
+
+- **Request clarification or modifications**  
+- **Veto** the motion if it is clearly misaligned with SOUL’s core values or culture  
+
+By default, Nodes operate under a posture of:
+
+> **“It’s good unless anyone speaks up.”**
+
+This supports momentum without requiring pre-approval for every decision.
+
+However, **larger missions**, structural changes, or sensitive issues should be flagged for **early review** by oversight—especially when risk, resources, or values are involved.
+
+---
+
+### II.3.f - 🧠 Cultural Considerations
+
+- **Oversight exists to prevent harm or drift**, not to manage every choice  
+- **Facilitators are not decision-makers**, but stewards of fair process  
+- **All members are invited to shape direction** through respectful engagement  
+
+---
+
+## II.4 - 👥 Accountability Circles
 
 Every leadership role—whether short-term (like a mission Coordinator) or recurring (like Facilitator)—requires an **Accountability Circle** of **2–5 trusted peers** before officially beginning.
 
 ---
 
-#### 🛠️ Responsibilities
+### II.4.a - 🛠️ Responsibilities
 
 - **Oversight** – Observe and ensure alignment with SOUL’s culture and charter  
 - **Support** – Act as a sounding board, help prevent burnout, and offer personal backup  
@@ -275,7 +362,7 @@ Circles help **nurture leaders**, not just monitor them.
 
 ---
 
-#### 🧑‍🤝‍🧑 Formation Process
+### II.4.b - 🧑‍🤝‍🧑 Formation Process
 
 - Role-holders must **form their Circle before beginning duties**
 - The Circle can be proposed by the person themselves *or* by trusted peers
@@ -286,7 +373,7 @@ This prevents bias while still **respecting personal boundaries** and **ensuring
 
 ---
 
-#### 📊 Optional Feedback System
+### II.4.c - 📊 Optional Feedback System
 
 To improve leadership continuity and culture, Circles may provide **periodic feedback**:
 
@@ -300,13 +387,61 @@ If desired, Nodes can rotate **anonymous peer evaluations** or conduct occasiona
 
 ---
 
-### 🌿 Cultural Principles
+### II.4.d - 🌿 Cultural Principles
 
 - Authority is temporary, accountable, and service-based  
 - Stewards and Councilors are **safeguards**, not rulers  
 - Consensus is the **core engine** of collective alignment  
 - Peer review encourages growth, not punishment  
 - Transparency, humility, and respect ground all governance  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 

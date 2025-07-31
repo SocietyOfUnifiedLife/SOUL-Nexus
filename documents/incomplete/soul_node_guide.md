@@ -135,13 +135,31 @@ This section explores how decisions are made, roles are held, and human energy i
 
 ## 🏛️ Governance System (Three-Branch Model)
 
-A SOUL Node’s governance balances flexibility, accountability, and mutual trust. Oversight is distributed across three interwoven branches:
+SOUL Nodes are governed by their members through **direct democratic consensus**. Oversight structures exist not to lead, but to safeguard the group’s alignment and integrity.
 
-- **Steward** – The ethical anchor and charter guardian  
-- **Council** – A rotating circle of peer-elected advisors  
-- **Consensus** – The full democratic voice of the Node  
+To support accountability and resilience, each Node may adopt a **three-branch oversight model**. This framework ensures no single voice can dominate, while still allowing the Node to evolve with clarity and care.
 
-Each branch has equal veto power. None may unilaterally control the Node. Most decisions pass via simple majority consensus; structural or override decisions require supermajority.
+The three branches are:
+
+- **🧭 Steward** – Ethical anchor and charter guardian  
+- **🪑 Council** – A rotating circle of peer-elected advisors  
+- **🗳 Consensus** – The full democratic voice of the Node  
+
+**Oversight roles do not make operational decisions.** Most choices—missions, roles, proposals—are made via **Consensus vote**. Oversight branches hold only one power: the **veto**, used sparingly to prevent misalignment, harm, or structural drift.
+
+Each branch has:
+
+- **Equal veto authority**
+- The ability to **override another branch’s veto** (details in Veto Chain)
+- No command or executive function—only support and review
+
+This creates a system of shared responsibility where:
+
+- **Day-to-day decisions are made by the group**
+- **Oversight serves as a cultural immune system**, not a ruling body
+- **Power is diffused**, not concentrated
+
+This balance enables freedom **with integrity**, ensuring every Node can adapt without losing its soul.
 
 ---
 

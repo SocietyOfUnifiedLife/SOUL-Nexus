@@ -133,87 +133,133 @@ This section explores how decisions are made, roles are held, and human energy i
 
 ---
 
-## 🧱 Governance System (Three-Branch Model)
+## 🏛️ Governance System (Three-Branch Model)
 
 A SOUL Node’s governance balances flexibility, accountability, and mutual trust. Power is distributed across three interwoven branches:
 
-- **Steward** – The ethical anchor and charter guardian
-- **Council** – A rotating circle of peer-elected advisors
-- **Consensus** – The full democratic voice of the Node
+- **Steward** – The ethical anchor and charter guardian  
+- **Council** – A rotating circle of peer-elected advisors  
+- **Consensus** – The full democratic voice of the Node  
 
-Together, these form a dynamic and adaptable structure for resolving conflicts, assigning roles, and protecting alignment.
+Each branch has equal veto power. None may unilaterally control the Node. Most decisions pass via simple majority consensus; structural or override decisions require supermajority.
 
 ---
 
 ### 🗳 Consensus System
 
-- **Definition**: A full vote of active Node members; one person, one vote.
-- **Default Threshold**:  
-  - Simple majority (51%) for regular decisions:
-    - Assigning roles (Facilitator, Coordinator, Councilor)
-    - Approving missions
-    - Adopting proposals
-  - Supermajority (66%) for structural or override decisions:
-    - Removing a Steward (if no Council exists)
-    - Changing the Node charter or values
-    - Creating or dissolving a Council
+**Definition:** A full vote of active Node members; one person, one vote.
 
-- **Facilitated by**: the active Facilitator
-- **Customizable**: Nodes may define their own thresholds
+**Default Thresholds:**
+
+- **Simple majority (51%)** for regular decisions:
+  - Assigning roles (Facilitator, Coordinator, Councilor)
+  - Approving missions or initiatives
+  - Adopting proposals or budgets
+- **Supermajority (66%)** for structural or override decisions:
+  - Overriding a veto (see Veto Chain)
+  - Changing the Node charter or values
+  - Creating or dissolving a Council
+
+**Facilitated by:** The currently selected Facilitator  
+**Customizable:** Nodes may define custom thresholds in their charter
 
 ---
 
 ### 🪑 Council Structure
 
-- **Purpose**: Reflection, intervention, and veto—not day-to-day leadership
-- **Size**: Scales with Node size (~1 Councilor per 8–12 members)
-  - Suggested cap: 12 maximum
-- **Election**: Chosen through Consensus
-- **Term**: 6 months
-- **Rotation Rule**:
-  - No back-to-back terms
-  - Must sit out at least one term before re-election
-- **Optional Chair**: Appointed internally if the Steward steps down
+**Purpose:** Oversight and reflection—not daily leadership
+
+- **Size:** Scales with Node (~1 Councilor per 8–12 members, up to 12 max)
+- **Term:** 6 months  
+  - No back-to-back terms  
+  - Must sit out one term before re-election
+- **Elected via:** Consensus vote
+- **Chair (optional):** Chosen internally to coordinate if Steward steps down
+- **Odd numbers recommended** to avoid ties, unless tie-breakers are built in
+
+Councilors are not removable mid-term.
+
+---
+
+### 🧑‍⚖️ Steward Role
+
+**Role:** Ethical compass and stabilizing presence. Often the founder or anchor of the Node.
+
+**Duties:**
+
+- Uphold values and protect cultural alignment  
+- Serve as charter guardian  
+- Act as default Treasurer (unless reassigned)  
+- Serve as primary point-of-contact for registration or inter-node coordination  
+- Behave like any other member unless intervention is needed  
+
+**Term:** 1 year (default)  
+- May step down at any time  
+- May re-nominate themselves at end of term (requires group approval)  
+- May select a successor or defer to a Council or Consensus vote  
+- Cannot be removed mid-term by local vote   
+
+Stewards do **not** make independent operational decisions. They are safeguards, not rulers.
 
 ---
 
 ### 👥 Accountability Circles
 
-Every leadership role (e.g. Coordinator, Facilitator) comes with an attached **Accountability Circle**—a small group of peers tasked with support and integrity.
+Each leadership role (Facilitator, Coordinator, etc.) comes with a small peer-based Accountability Circle.
 
-#### Functions:
-- **Support First**: Reflect, guide, and mentor before intervening
-- **Immediate Suspension (if needed)**:
-  - Circle may temporarily pause someone's authority
-  - A follow-up review must occur within 1–2 weeks
-  - Final decision is confirmed or overturned by Steward, Council, or Node
+**Functions:**
 
-#### Composition:
-- 3–5 trusted peers
-- Preferably includes former role-holders or experienced contributors
+- **Support First:** Reflect, mentor, and troubleshoot before intervening  
+- **Immediate Suspension:** Circle may temporarily pause someone's authority  
+- **Follow-Up Review:** Must occur within 1–2 weeks, confirmed or overturned by Steward, Council, or Consensus
+
+**Composition:** 2–5 trusted peers, ideally with prior experience
 
 ---
 
-### ⚖️ Conflict Resolution & Role Removal
+### ⚖️ Veto Chain & Conflict Resolution
 
-| Action                       | Required Agreement                          |
-|-----------------------------|---------------------------------------------|
-| Remove **Steward**          | Council + Consensus *(or)* Council + Circle |
-| Remove **Councilor**        | Steward + Consensus                         |
-| Remove **Coordinator / Facilitator** | Any one branch *(or)* Accountability Circle (if uncontested) |
-| Override mission or decision| Any two of the three branches                |
-| Contested removal           | Full 3-way vote required                    |
+**Any branch (Steward, Council, or Consensus) may veto a proposal.**  
+That veto may then be overridden by **either of the other two**:
 
-> 🔁 **If no Council exists**, the Steward can be overridden by supermajority Consensus.
+- **Consensus override** requires **supermajority (66%)**  
+- **Council override** requires **simple majority**  
+- **Steward override** is **unilateral**
+
+Once overridden, the **third branch may re-veto**, and that decision is **final**.
+
+If only two branches exist, a second veto by the other is final.  
+If no action is taken by the third branch, the last override stands.
+
+---
+
+### 🎯 Example Flow
+
+1. Proposal passes Consensus (51%)  
+2. Steward vetoes  
+3. Consensus re-approves (66%)  
+4. Council re-vetoes → final veto stands
+
+---
+
+### 📊 Summary Voting Table
+
+| Decision Type                       | Threshold / Rule                            |
+|------------------------------------|---------------------------------------------|
+| Assign roles / approve missions    | Simple Majority (51%)                       |
+| Override proposal / decision       | Any two branches (last to veto stands)      |
+| Resolve 3-way conflict             | Third branch decides by standard process    |
+| If no Council                      | Steward may be overridden by 66% Consensus  |
 
 ---
 
 ### 🌿 Cultural Principles
 
-- Authority is temporary, service-based, and accountable.
-- Stewards and Councilors are safeguards—not rulers.
-- Consensus is the core of community alignment.
-- Accountability Circles blend support with responsibility.
+- Authority is temporary, accountable, and service-based  
+- Stewards and Councilors are **safeguards**, not rulers  
+- Consensus is the **core engine** of collective alignment  
+- Peer review encourages growth, not punishment  
+- Transparency, humility, and respect ground all governance  
 
 ---
 

@@ -135,7 +135,7 @@ This section explores how decisions are made, roles are held, and human energy i
 
 ## 🏛️ Governance System (Three-Branch Model)
 
-A SOUL Node’s governance balances flexibility, accountability, and mutual trust. Power is distributed across three interwoven branches:
+A SOUL Node’s governance balances flexibility, accountability, and mutual trust. Oversight is distributed across three interwoven branches:
 
 - **Steward** – The ethical anchor and charter guardian  
 - **Council** – A rotating circle of peer-elected advisors  

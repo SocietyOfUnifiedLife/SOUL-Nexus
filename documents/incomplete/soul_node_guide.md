@@ -203,20 +203,6 @@ Stewards do **not** make independent operational decisions. They are safeguards,
 
 ---
 
-### 👥 Accountability Circles
-
-Each leadership role (Facilitator, Coordinator, etc.) comes with a small peer-based Accountability Circle.
-
-**Functions:**
-
-- **Support First:** Reflect, mentor, and troubleshoot before intervening  
-- **Immediate Suspension:** Circle may temporarily pause someone's authority  
-- **Follow-Up Review:** Must occur within 1–2 weeks, confirmed or overturned by Steward, Council, or Consensus
-
-**Composition:** 2–5 trusted peers, ideally with prior experience
-
----
-
 ### ⚖️ Veto Chain & Conflict Resolution
 
 **Any branch (Steward, Council, or Consensus) may veto a proposal.**  
@@ -250,6 +236,49 @@ If no action is taken by the third branch, the last override stands.
 | Override proposal / decision       | Any two branches (last to veto stands)      |
 | Resolve 3-way conflict             | Third branch decides by standard process    |
 | If no Council                      | Steward may be overridden by 66% Consensus  |
+
+---
+
+### 👥 Accountability Circles
+
+Every leadership role—whether short-term (like a mission Coordinator) or recurring (like Facilitator)—requires an **Accountability Circle** of **2–5 trusted peers** before officially beginning.
+
+---
+
+#### 🛠️ Responsibilities
+
+- **Oversight** – Observe and ensure alignment with SOUL’s culture and charter  
+- **Support** – Act as a sounding board, help prevent burnout, and offer personal backup  
+- **Mentoring** – Provide guidance, especially for first-time or rotating leaders  
+- **Reporting** – Provide occasional role reflections or ratings (1–5), with short notes  
+- **Intervention (if needed)** – May pause a role-holder’s authority for serious issues; triggers follow-up review  
+
+Circles help **nurture leaders**, not just monitor them.
+
+---
+
+#### 🧑‍🤝‍🧑 Formation Process
+
+- Role-holders must **form their Circle before beginning duties**
+- The Circle can be proposed by the person themselves *or* by trusted peers
+- The person **may veto** specific individuals (e.g. conflicts of trust or ethics)
+- Final approval is done **by the Council, Steward, or Facilitator**, depending on the context
+
+This prevents bias while still **respecting personal boundaries** and **ensuring readiness**.
+
+---
+
+#### 📊 Optional Feedback System
+
+To improve leadership continuity and culture, Circles may provide **periodic feedback**:
+
+- **Numerical rating (1–5)** on alignment, reliability, presence, etc.  
+- **Brief qualitative notes** (what’s working, what’s strained, what’s inspiring)  
+- Reports may be reviewed by the Node’s governance branch(es) or archived for internal growth  
+
+This supports **pattern awareness** without enforcing judgment or fostering competition.  
+If desired, Nodes can rotate **anonymous peer evaluations** or conduct occasional debriefs instead.
+
 
 ---
 

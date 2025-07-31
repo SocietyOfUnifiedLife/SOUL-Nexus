@@ -14,32 +14,32 @@
 ### II. Governance & Structure
 
 1. 🔧 Governance System
-   a. Consensus System
-   b. Council Structure
-   c. Steward Role
-   d. Checks & Balances
-   f. Example Flow
-   e. Summary Voting Table
+    a. Consensus System
+    b. Council Structure
+    c. Steward Role
+    d. Checks & Balances
+    f. Example Flow
+    e. Summary Voting Table
 2. ✅ Voting System
-  a. How Proposals Work
-  b. Establishing a Quarum
-  c. Voting Procedure
-  d. Default Thresholds
-  e. Post-Vote Oversight
-  f. Cultural Considerations
+   a. How Proposals Work
+   b. Establishing a Quarum
+   c. Voting Procedure
+   d. Default Thresholds
+   e. Post-Vote Oversight
+   f. Cultural Considerations
 4. Core Roles Overview
-  a. Rotating Role Philosophy
-  b. Steward
-  c. Councilor
-  d. Chairperson
-  e. Treasurer
-  f. Facilitator
-  e. Coordinator
+   a. Rotating Role Philosophy
+   b. Steward
+   c. Councilor
+   d. Chairperson
+   e. Treasurer
+   f. Facilitator
+   e. Coordinator
 6. 🛠 Accountability Circles
-  a. Responsibilities
-  b. Formation Process
-  c. Optional Feedback System
-  d. Cultural Principles
+   a. Responsibilities
+   b. Formation Process
+   c. Optional Feedback System
+   d. Cultural Principles
 7. Money & Resources
 8. Documentation & Transparency  
 
